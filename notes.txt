@@ -1,1 +1,3 @@
 This is my second file for the Git assignment.
+This is an additional line.
+This line will be staged selectively.
